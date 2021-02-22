@@ -1,2 +1,2 @@
 # smilejuani.github.io
-my blog 我的博客
+my blog 我的博客.
